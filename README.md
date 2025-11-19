@@ -1,5 +1,4 @@
 # Todo API
-simple Todo list API built with **python** and **django rest framework**
 
 ## *API Endpoint*
 ### for accounts app
