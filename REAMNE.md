@@ -19,7 +19,7 @@ simple Todo list API built with **python** and **django rest framework**
 | GET | / | list of all todos |
 | POST | /{id} | info of one todo |
 | POST | /create/ | create a todo |
-| PUT | /update/{id}/ | update todo info |
+| PATCH | /update/{id}/ | update todo info |
 | DELETE | /delete/{id}/ | delete todo |
 | GET | /schema/(redoc OR swagger-ui) | document |
 
